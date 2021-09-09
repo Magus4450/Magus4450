@@ -2,6 +2,13 @@
 <h3>CS Undergraduate | AI Enthusiast</h3>
 
 You can call me Magus :smiley:
+
+> 🔭 I’m currently working on a personal project
+> 🌱 I’m currently learning Django and Machine Learning
+> 📫 How to reach me: sugamkarki4460@gmail.com
+<!--> 😄 My website: https://savio.works/ -->
+> ⚡ Fun fact: A for Apple
+
 <br>
 <p><strong>Language and Tools:</strong></p>
 <p>
