@@ -5,7 +5,7 @@ You can call me Magus :smiley:
 
 * 🔭 I’m currently working on a personal project
 * 🌱 I’m currently learning Django and Machine Learning
-* 📫 How to reach me: sugamkarki4460@gmail.com
+* 📫 How to reach me: sugamkarki4450@gmail.com
 * ⚡ Fun fact: A for Apple
 <!-- * 😄 My website:  -->
 
@@ -28,6 +28,8 @@ You can call me Magus :smiley:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Magus4450&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Magus' Github Stats">  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magus4450&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Magus4450/github-readme-stats)
+
+
 
 
 
