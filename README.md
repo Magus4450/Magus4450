@@ -23,25 +23,20 @@ You can call me Magus :smiley:
   
 
 </p>
-<br>
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magus4450&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Magus4450/github-readme-stats) <img align="center" src="https://github-readme-stats.vercel.app/api?username=Magus4450&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Magus' Github Stats">  
-
-
-
-
-
-
 
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Magus4450&theme=gotham&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magus4450&layout=compact&text_color=daf7dc&bg_color=151515" alt="Magus' Github Stats">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Magus4450&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Magus' Github Stats"> 
+  
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Magus4450&theme=holi-theme" alt="Magus' Github Stats">  
+</p>
 
 
 
