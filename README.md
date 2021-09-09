@@ -6,8 +6,9 @@ You can call me Magus :smiley:
 * 🔭 I’m currently working on a personal project
 * 🌱 I’m currently learning Django and Machine Learning
 * 📫 How to reach me: sugamkarki4460@gmail.com
-<!-- * 😄 My website:  -->
 * ⚡ Fun fact: A for Apple
+<!-- * 😄 My website:  -->
+
 
 <br>
 <p><strong>Language and Tools:</strong></p>
