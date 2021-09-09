@@ -29,6 +29,7 @@ You can call me Magus :smiley:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magus4450&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Magus4450/github-readme-stats)
 
 <br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Magus4450&theme=gotham&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
 
