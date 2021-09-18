@@ -1,5 +1,5 @@
 <h2 >Hi 👋, I'm Sugam Karki </h2>
-<h3>CS Undergraduate | AI Enthusiast</h3>
+<h3>CS Student | AI Enthusiast</h3>
 
 You can call me Magus :smiley:
 
