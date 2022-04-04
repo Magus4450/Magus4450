@@ -4,7 +4,7 @@
 You can call me Magus :smiley:
 
 * 🔭 I’m currently working on a personal project
-* 🌱 I’m currently learning Django and Machine Learning
+* 🌱 I’m currently learning Flutter and Machine Learning
 * 📫 How to reach me: sugamkarki4450@gmail.com
 * ⚡ Fun fact: A for Apple
 <!-- * 😄 My website:  -->
