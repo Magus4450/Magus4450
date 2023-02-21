@@ -1,53 +1,49 @@
 <h2 >Hi 👋, I'm Sugam Karki </h2>
-<h3>CS Student | AI Enthusiast</h3>
+<h3>I like automating things🙂</h3>
 
-You can call me Magus :smiley:
+You can call me Magus
 
-* 🔭 I’m currently working on Classification and Localization of Diseases in Digestive Endoscopy using CNN and Grad-CAM 
-* 🌱 I’m currently learning Recommender Systems, NLP
+* 🔭 I’m currently working on [EndoCheck](https://github.com/Magus4450/EndoCheck). 
+* 🌱 I’m currently learning Big Data, Spark, AWS
 * 📫 How to reach me: sugamkarki4450@gmail.com
-* ⚡ Fun fact: A for Apple
-<!-- * 😄 My website:  -->
+* ⚡ Fun fact: All of what we think is in a way biased
 
-
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=magus4450&label=Profile%20views&color=0e75b6&style=flat" alt="magus4450" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="60" height="30"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="60" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="25" height="30"/> 
-  <img src="https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="40" height="40"/> 
-  <img src="https://www.sbert.net/_static/logo.png" alt="NLTK" width="80" height="40"/> 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+
  
 
 </p>
 
 
+
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magus4450&label=Profile%20views&color=0e75b6&style=flat" alt="magus4450" /> </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magus4450&layout=compact&text_color=daf7dc&bg_color=151515" alt="Magus' Github Stats">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Magus4450&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Magus' Github Stats"> 
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=magus4450&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Magus' Github Stats">  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=magus4450&theme=tokyonight&hide_border=true" alt="Magus' Github Stats">  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magus4450&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Magus' Github Stats">
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Magus4450&theme=holi-theme" alt="Magus' Github Stats">  
-</p>
-
 
 
