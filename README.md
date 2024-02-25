@@ -3,8 +3,8 @@
 
 You can call me Magus
 
-* 🔭 I’m currently working on [EndoCheck](https://github.com/Magus4450/EndoCheck). 
-* 🌱 I’m currently learning Big Data, Spark, AWS
+* 🔭 I’m currently working on [Chatbot](https://github.com/Magus4450/Mental-Health-Chatbot)
+* 🌱 I’m currently learning RAG, MLOps
 * 📫 How to reach me: sugamkarki4450@gmail.com
 * ⚡ Fun fact: All of what we think is in a way biased
 
