@@ -8,7 +8,6 @@ You can call me Magus
 * 📫 How to reach me: sugamkarki4450@gmail.com
 * ⚡ Fun fact: All of what we think is in a way biased
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magus4450&label=Profile%20views&color=0e75b6&style=flat" alt="magus4450" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
